@@ -22,5 +22,13 @@ input {
 }
 
 .button {
-    border-radius: 50%;
+    border-style: solid;
+    border-radius: 5%;
+}
+
+.postitem {
+    color: red;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
 }
