@@ -1,8 +1,26 @@
-.section-header{
+.section-header {
     font-family: sans-serif;
+    font-size: 140%;
+}
+
+.new-post-form {
     font-size: 140%;
 }
 
 label {
     display: block;
+    font-weight: bolder;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+label,
+input {
+    font-size: 120%;
+}
+
+.button {
+    border-radius: 50%;
 }
